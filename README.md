@@ -1,6 +1,6 @@
 # Testing Practice Project
 
-- Implemeting tests for various js functions found [here.](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice)
+- Implementing tests for various js functions found [here.](https://www.theodinproject.com/lessons/node-path-javascript-testing-practice)
 - This is part of The Odin Project Curriculum.
 ## Features
 
