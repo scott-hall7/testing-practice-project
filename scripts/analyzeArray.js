@@ -1,4 +1,5 @@
 function analyzeArray(array)  {
+
     let object = {};
     
     const average = (array) =>   {
@@ -32,5 +33,5 @@ function analyzeArray(array)  {
     return object;
 
 }
-console.log(analyzeArray([1,8,3,4,2,6]))
-//export { analyzeArray };
+
+export { analyzeArray };
